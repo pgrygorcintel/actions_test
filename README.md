@@ -2,5 +2,4 @@
 
 Just an experiment
 
-[![Simple Action Test Actions Status](https://github.com/pgrygorcintel/actions_test/workflows/simple-action-test/badge.svg)](https://github.com/pgrygorcintel/actions_test/actions)
-
+[![Simple-Action-Test Actions Status](https://github.com/pgrygorcintel/actions_test/workflows/Simple-Action-Test/badge.svg)](https://github.com/pgrygorcintel/actions_test/actions)
